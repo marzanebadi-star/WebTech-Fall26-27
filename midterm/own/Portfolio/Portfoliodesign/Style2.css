@@ -52,4 +52,5 @@ table{
 td{
     padding: 10px 6px;
     vertical-align: top; 
+    /* border-bottom: 2px dashed midnightblue; */
 }
